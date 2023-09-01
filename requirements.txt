@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.2
+playwright==1.35.0
+Requests==2.31.0
+DrissionPage==3.2.31
